@@ -68,4 +68,4 @@ const percentage = 100;
 function inPercentage (num1) {
     return percentage * num1;
 }
-console.log("Hey that was a", calInPercentage(2),"% return!");
+console.log("Hey that was a", inPercentage(2),"% return!");
