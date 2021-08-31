@@ -62,3 +62,10 @@ function say(greeting, firstName) {
 }
 console.log(say("Howdy", "partner"));
 
+//practice
+const percentage = 100;
+
+function inPercentage (num1) {
+    return percentage * num1;
+}
+console.log("Hey that was a", calInPercentage(2),"% return!");
