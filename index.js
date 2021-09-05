@@ -135,3 +135,46 @@ add5(); //=> returns 15
 divideBy3(); //=> returns 5;
 //Because these methods are more explicit, we prefer += to ++ and -= to -- (usually).
 
+
+//-------------------------------------------------------------------------------Lab practice-----------------------------------------------------------------------------------
+//Define functions add(), subtract(), multiply(), divide()
+function add(){
+}
+
+function subtract(){
+}
+
+function multiply(){
+}
+
+function divide(){
+}
+
+//use of fundamental math operators +, -, *, / (a,b) to return results
+function add(a,b){
+    return a + b;
+}
+
+function subtract(a,b){
+    return a - b;
+}
+
+function multiply(a,b){
+    return a * b;
+}
+
+function divide(a,b){
+    return a / b;
+}
+
+//increment(n) increments n and returns the result
+function increment(a){
+    return a + 1;
+}
+
+//decrement(n) decrement n and returns the result
+function decrement(a){
+    return a - 1;
+}
+
+
