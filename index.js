@@ -177,4 +177,16 @@ function decrement(a){
     return a - 1;
 }
 
+//makeInt(string) should take in a string, parse it into a base 10 integer and return it.
+function makeInt(a){
+    return parseInt(a,10);
+}
+makeInt("2");
+
+//preserveDecimal(string) should take in a string, parse it into a float and return it.
+function preserveDecimal(n){
+    return parseFloat(n);
+}
+preserveDecimal("2.222");
+
 
