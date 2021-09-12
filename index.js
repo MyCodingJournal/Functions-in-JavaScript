@@ -137,6 +137,8 @@ divideBy3(); //=> returns 5;
 
 
 //-------------------------------------------------------------------------------Lab practice-----------------------------------------------------------------------------------
+// https://github.com/VGDJP-07/phase-0-pac-3-arithmetic-lab
+
 //Define functions add(), subtract(), multiply(), divide()
 function add(){
 }
@@ -189,4 +191,4 @@ function preserveDecimal(n){
 }
 preserveDecimal("2.222");
 
-
+// https://github.com/VGDJP-07/phase-0-pac-3-arithmetic-lab
